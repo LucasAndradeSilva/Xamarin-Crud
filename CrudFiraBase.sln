@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudFiraBase.Android", "CrudFiraBase\CrudFiraBase.Android\CrudFiraBase.Android.csproj", "{E63CA3D3-C769-4641-86AC-DD62DCDBBC05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudFiraBase", "CrudFiraBase\CrudFiraBase\CrudFiraBase.csproj", "{CAB93C7E-DB22-4200-9269-6B6BFD2D3C6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E63CA3D3-C769-4641-86AC-DD62DCDBBC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63CA3D3-C769-4641-86AC-DD62DCDBBC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63CA3D3-C769-4641-86AC-DD62DCDBBC05}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E63CA3D3-C769-4641-86AC-DD62DCDBBC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63CA3D3-C769-4641-86AC-DD62DCDBBC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E63CA3D3-C769-4641-86AC-DD62DCDBBC05}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CAB93C7E-DB22-4200-9269-6B6BFD2D3C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB93C7E-DB22-4200-9269-6B6BFD2D3C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB93C7E-DB22-4200-9269-6B6BFD2D3C6C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CAB93C7E-DB22-4200-9269-6B6BFD2D3C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB93C7E-DB22-4200-9269-6B6BFD2D3C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB93C7E-DB22-4200-9269-6B6BFD2D3C6C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92209CA5-9D6C-42B8-914B-0CE307D205E0}
+	EndGlobalSection
+EndGlobal

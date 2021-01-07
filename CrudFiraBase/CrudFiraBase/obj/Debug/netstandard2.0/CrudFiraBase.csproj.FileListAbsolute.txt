@@ -1,0 +1,28 @@
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\bin\Debug\netstandard2.0\CrudFiraBase.deps.json
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\bin\Debug\netstandard2.0\CrudFiraBase.dll
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\bin\Debug\netstandard2.0\ref\CrudFiraBase.dll
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\bin\Debug\netstandard2.0\CrudFiraBase.pdb
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\CrudFiraBase.csprojAssemblyReference.cache
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\Views\ContatosView.xaml.g.cs
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\CrudFiraBase.AssemblyInfoInputs.cache
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\CrudFiraBase.AssemblyInfo.cs
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\CrudFiraBase.dll
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\ref\CrudFiraBase.dll
+C:\Users\lucas.andrade\source\repos\Testes\Estudos C#\Xamarin\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\CrudFiraBase.pdb
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\bin\Debug\netstandard2.0\CrudFiraBase.deps.json
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\bin\Debug\netstandard2.0\CrudFiraBase.dll
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\bin\Debug\netstandard2.0\ref\CrudFiraBase.dll
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\bin\Debug\netstandard2.0\CrudFiraBase.pdb
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\CrudFiraBase.csprojAssemblyReference.cache
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\Views\ContatosView.xaml.g.cs
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\CrudFiraBase.AssemblyInfoInputs.cache
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\CrudFiraBase.AssemblyInfo.cs
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\CrudFiraBase.dll
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\ref\CrudFiraBase.dll
+C:\Users\lucas.andrade\source\repos\CrudFiraBase\CrudFiraBase\CrudFiraBase\obj\Debug\netstandard2.0\CrudFiraBase.pdb
